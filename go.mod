@@ -10,7 +10,7 @@ require (
 	github.com/go-openapi/testify/v2 v2.6.0
 	github.com/google/uuid v1.6.0
 	github.com/netbirdio/kube-egress-forwarder v0.0.3
-	github.com/netbirdio/netbird v0.74.7
+	github.com/netbirdio/netbird v0.76.1
 	github.com/onsi/ginkgo/v2 v2.32.0
 	github.com/onsi/gomega v1.42.1
 	golang.org/x/mod v0.38.0
@@ -53,7 +53,7 @@ require (
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/mailru/easyjson v0.9.1 // indirect
-	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
